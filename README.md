@@ -7,3 +7,9 @@ files exported in folders who automatically generated when the script run for th
 !attention,!\
 Normally conv2doc convert into docx file modificable, but if PDF does not contain the context, \
 that will be pasted image.
+
+To use:
+
+- make sure you have python3 in your PC
+- pip install -r requirements.txt
+- python run <script_name>
